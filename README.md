@@ -1,8 +1,23 @@
 # Lab-Members
 This is the introduction of the members of the PRCI-Lab
 ## Professors
+
+### Josef Kittler 
+
+<img src="./Photos/josef.webp" width="200">
+
+
+I have been a Research Assistant in the Engineering Department of Cambridge University (1973--75), SERC Research Fellow at the University of Southampton (1975-77), Royal Society European Research Fellow, Ecole Nationale Superieure des Telecommuninations, Paris (1977--78), IBM Research Fellow, Balliol College, Oxford (1978--80), Principal Research Associate, SERC Rutherford Appleton Laboratory (1980--84) and Principal Scientific Officer, SERC Rutherford Appleton Laboratory (1985).
+
+I also worked as the SERC Coordinator for Pattern Analysis (1982), and was Rutherford Research Fellow in Oxford University, Dept. Engineering Science (1985).
+
+I joined the Department of Electrical Engineering of Surrey University in 1986 as a Reader in Information Technology, and became Professor of Machine Intelligence in 1991 and gained the title Distinguished Professor in 2004.
+
+
 ### 吴小俊
-![image](./Photos/xiaojunwu.png)
+
+<img src="./Photos/xiaojunwu.png" width="200">
+
 
 基本信息：吴小俊，江南大学二级教授、博导、科研院院长、至善教授。
 
@@ -40,8 +55,7 @@ Postcode: 214122
 
 Xiao-Jun Wureceived his B.S. degree in mathematics from Nanjing Normal University, Nanjing, PR China in 1991 and M.S. degree in 1996, and Ph.D. degree in Pattern Recognition and Intelligent System in 2002, both from Nanjing University of Science and Technology, Nanjing, PR China, respectively. He was a fellow of United Nations University, International Institute for Software Technology (UNU/IIST) from 1999 to 2000. From 1996 to 2006, he taught in the School of Electronics and Information, Jiangsu University of Science and Technology where he was an exceptionally promoted professor. He joined Jiangnan University in 2006 where he is a distinguished professor of School of Artificial Intelligence and Computer Science, Jiangnan University. He won the most outstanding postgraduate award by Nanjing University of Science and Technology. He has published more than 300 papers in his fields of research, among which 100 papers have been indexed by SCI and more than 100 papers have been indexed by EI. He has won different awards including international award, national award and provincial award for his research achievements. He was a visiting postdoctoral researcher in the Centre for Vision, Speech, and Signal Processing (CVSSP), University of Surrey, UK from 2003 to 2004, under the supervision of Professor Josef Kittler. His current research interests are pattern recognition, computer vision, fuzzy systems, neural networks and intelligent systems. He was an associate editor of International Journal of Computer Mathematics. He is currently a review editor of Frontiers in Neurorobotics, and editor of Journal of Algorithm and Computational Technology, Associate Editor, Computers in Biology and Medicine, Associate Editor, SN Computer Science respectively. He is in charge of Wuxi IEEE Smart Cities Pioneering Program, IEEE Smart Cities Initiative.
 ### 方伟
-
-![image](./Photos/weifang.png)
+<img src="./Photos/weifang.png" width="200">
 
 方伟教授、博导
 
@@ -74,8 +88,7 @@ Xiao-Jun Wureceived his B.S. degree in mathematics from Nanjing Normal Universit
 Email:fangwei@jiangnan.edu.cn
 
 ### 孙俊
-
-![image](./Photos/junsun.png)
+<img src="./Photos/junsun.png" width="200">
 
 基本信息：孙俊，博士，江苏无锡人。2009年3月江南大学控制理论与控制工程专业博士研究生毕业，获得工学博士学位；2012年1月至2013年1月在英国牛津大学计算机科学系从事博士后研究；2013年10月至2015年8月由英国皇家学会资助，在英国牛津大学、考文垂大学从事高级访问研究员工作。2008年7月破格晋升副教授，2015年7月晋升教授。现任江南大学人工智能与计算机学院教授、博士生导师。
   研究方向：主要从事人工智能、计算智能、机器学习、大数据分析、生物信息学的研究以及人工智能、算法设计与分析、高性能计算的教学工作。入选2011年教育部新世纪优秀人才计划，2014年被评为无锡市优秀科技工作者,2019年入选江苏省青蓝工程优秀教学团队负责人。主持国家自然科学基金3（项面上项目2项和国际合作交流项目1项），教育部新世纪优秀人才计划项目1项，江苏省自然科学基金1项，教育部装备预研项目1项。参与国家自然科学基金3项，国家科技部重点研发项目2项，国家工信部项目1项，其它省部级以上项目5项。
@@ -91,8 +104,7 @@ Email:fangwei@jiangnan.edu.cn
 Email： sunjun_wx@hotmail.com，junsun@jiangnan.edu.cn
 
 ### 宋晓宁
-
-![image](./Photos/xiaoningsong.png)
+<img src="./Photos/xiaoningsong.png" width="200">
 
 基本信息：宋晓宁，博士、江南大学教授、博士生导师。入选江苏省“333高层次人才”中青年学术带头人、江苏省“六大人才高峰”。2010年10月毕业于南京理工大学模式识别与智能系统专业，获工学博士学位。2011年5月至2014年5月在南京理工大学从事博士后研究。2014年6月至2015年6月在英国Surrey大学电子工程系视觉、语音和信号处理中心(Centre for Vision, Speech and Signal Processing)担任访问学者，合作导师：英国皇家工程院院士、原国际模式识别协会(IAPR)主席Josef Kittler教授。
 
@@ -162,7 +174,7 @@ E-mail：x.song@jiangnan.edu.cn/song_xiaoning_jnu@163.com
 
 ### 毛力
 
-![image](./Photos/limao.png)
+<img src="./Photos/limao.png" width="200">
 
 基本信息：毛力，男，1990年本科毕业于东南大学计算机科学与工程系，东华大学计算机应用技术硕士，现任江南大学人工智能与计算机学院教授，硕士生导师。
 研究方向：人工智能、计算机网络及水产健康养殖。
@@ -180,8 +192,7 @@ E-mail：x.song@jiangnan.edu.cn/song_xiaoning_jnu@163.com
 Email：wxmaoli@163.com
 
 ### 罗晓清
-
-![image](./Photos/xiaoqingluo.png)
+<img src="./Photos/xiaoqingluo.png" width="200">
 
 个人简介
 2010年12月取得博士学位。2015年8月-2016年8月前往英国萨里大学CVSSP研究中心(the Centre for Vision, Speech and Signal Processing, University of Surrey, University of Surry) Prof. Josef Kittler教授课题组进行为期一年的学术访问。主要研究方向包括信息融合、机器视觉、医学图像处理、目标识别与跟踪等。研究成果在国内外权威刊物发表论文60余篇，其中SCI(E)检索的论文20余篇。
@@ -207,8 +218,7 @@ Email: xqluo@jiangnan.edu.cn
 
 ## Associate Professors
 ### 陈志国
-
-![image](./Photos/zhiguochen.png)
+<img src="./Photos/zhiguochen.png" width="200">
 
 基本信息：陈志国，博士，副教授、硕士生导师。
 研究方向：主要从事传感器技术、嵌入式系统设计与应用、计算机智能控制等方面的研究和教学工作。
@@ -220,7 +230,8 @@ Email: xqluo@jiangnan.edu.cn
 Email：chenzg@jiangnan.edu.cn
 
 ### 张涛
-![image](./Photos/taozhang.png)
+
+<img src="./Photos/taozhang.png" width="200">
 
 基本信息：张涛，博士，副教授，硕士生导师，1985年6月生。2016年3月于上海交通大学教育部重点实验室，模式识别与智能系统专业毕业，获工学博士学位，导师：杨杰。2015年4月至2015年10月在澳大利亚悉尼科技大学电子工程系全球大数据中心(Global Big Data Technologies Centre (GBDTC) at the University of Technology Sydney (UTS))做访问学者。现任江南大学人工智能与计算机学院计算机系副教授。
 研究方向：主要从事模式识别、机器学习和计算机视觉的研究和教学工作。
@@ -248,8 +259,7 @@ Email：chenzg@jiangnan.edu.cn
 E-mail：taozhang@jiangnan.edu.cn
 
 ### 胡聪
-
-![image](./Photos/conghu.png)
+<img src="./Photos/conghu.png" width="200">
 
 基本信息：胡聪，博士，副教授，硕士生导师。1987年出生，2019年江南大学轻工信息技术专业获工学博士学位。2018-2019年在英国萨里大学电子工程系视觉、语音和信号处理中心(University of Surrey, CVSSP)博士联合培养。现任江南大学人工智能与计算机学院副教授，人工智能系副系主任。
 研究方向：人工智能、模式识别、计算机视觉。
@@ -261,8 +271,7 @@ E-mail：taozhang@jiangnan.edu.cn
 联系方式：conghu@jiangnan.edu.cn
 
 ### 徐天阳
-
-![image](./Photos/tianyangxv.png)
+<img src="./Photos/tianyangxv.png" width="200">
 
 基本信息：徐天阳，男，博士，副教授。2011年于南京大学电子信息科学与技术专业获学士学位；2019年于江南大学模式识别与智能系统专业获博士学位；2018-2019年于英国萨里大学电子工程系视觉、语音和信号处理中心(Centre for Vision, Speech and Signal Processing, CVSSP)博士联合培养；2019-2021于CVSSP担任Research Fellow。现任江南大学人工智能与计算机学院计算机系副教授。
 研究方向：模式识别、计算机视觉、人工智能。主要包括图像增强、视频理解、跨模态学习、流形学习。
@@ -271,8 +280,8 @@ E-mail：taozhang@jiangnan.edu.cn
 个人联系方式：tianyang_xu@163.com
 
 ### 陆恒杨
+<img src="./Photos/hengyanglu.png" width="200">
 
-![image](./Photos/hengyanglu.png)
 
 基本信息：陆恒杨，博士，副教授。1991年出生，2019年南京大学计算机科学与技术专业获博士学位，同年任职于江南大学。现任江南大学人工智能与计算机学院副教授。
 研究方向：人工智能，数据挖掘，自然语言处理。
@@ -285,8 +294,7 @@ E-mail：taozhang@jiangnan.edu.cn
 
 ## Lecturers
 ### 李辉
-
-![image](./Photos/huili.png)
+<img src="./Photos/huili.png" width="200">
 
 基本信息：李辉，博士，讲师。1992年出生，2022年1月获江南大学控制科学与工程专业工学博士学位，同年任职于江南大学。个人主页https://hli1221.github.io/
 研究方向：模式识别，计算机视觉，多模态信息融合，图像处理等。
