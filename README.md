@@ -2,18 +2,6 @@
 This is the introduction of the members of the PRCI-Lab
 ## Professors
 
-### Josef Kittler 
-
-<img src="./Photos/josef.webp" width="200">
-
-
-I have been a Research Assistant in the Engineering Department of Cambridge University (1973--75), SERC Research Fellow at the University of Southampton (1975-77), Royal Society European Research Fellow, Ecole Nationale Superieure des Telecommuninations, Paris (1977--78), IBM Research Fellow, Balliol College, Oxford (1978--80), Principal Research Associate, SERC Rutherford Appleton Laboratory (1980--84) and Principal Scientific Officer, SERC Rutherford Appleton Laboratory (1985).
-
-I also worked as the SERC Coordinator for Pattern Analysis (1982), and was Rutherford Research Fellow in Oxford University, Dept. Engineering Science (1985).
-
-I joined the Department of Electrical Engineering of Surrey University in 1986 as a Reader in Information Technology, and became Professor of Machine Intelligence in 1991 and gained the title Distinguished Professor in 2004.
-
-
 ### 吴小俊
 
 <img src="./Photos/xiaojunwu.png" width="200">
@@ -54,6 +42,20 @@ Email: wu_xiaojun@jiangnan.edu.cn, xiaojun_wu_jnu@163.com
 Postcode: 214122
 
 Xiao-Jun Wureceived his B.S. degree in mathematics from Nanjing Normal University, Nanjing, PR China in 1991 and M.S. degree in 1996, and Ph.D. degree in Pattern Recognition and Intelligent System in 2002, both from Nanjing University of Science and Technology, Nanjing, PR China, respectively. He was a fellow of United Nations University, International Institute for Software Technology (UNU/IIST) from 1999 to 2000. From 1996 to 2006, he taught in the School of Electronics and Information, Jiangsu University of Science and Technology where he was an exceptionally promoted professor. He joined Jiangnan University in 2006 where he is a distinguished professor of School of Artificial Intelligence and Computer Science, Jiangnan University. He won the most outstanding postgraduate award by Nanjing University of Science and Technology. He has published more than 300 papers in his fields of research, among which 100 papers have been indexed by SCI and more than 100 papers have been indexed by EI. He has won different awards including international award, national award and provincial award for his research achievements. He was a visiting postdoctoral researcher in the Centre for Vision, Speech, and Signal Processing (CVSSP), University of Surrey, UK from 2003 to 2004, under the supervision of Professor Josef Kittler. His current research interests are pattern recognition, computer vision, fuzzy systems, neural networks and intelligent systems. He was an associate editor of International Journal of Computer Mathematics. He is currently a review editor of Frontiers in Neurorobotics, and editor of Journal of Algorithm and Computational Technology, Associate Editor, Computers in Biology and Medicine, Associate Editor, SN Computer Science respectively. He is in charge of Wuxi IEEE Smart Cities Pioneering Program, IEEE Smart Cities Initiative.
+
+
+### Josef Kittler 
+
+<img src="./Photos/josef.webp" width="200">
+
+
+I have been a Research Assistant in the Engineering Department of Cambridge University (1973--75), SERC Research Fellow at the University of Southampton (1975-77), Royal Society European Research Fellow, Ecole Nationale Superieure des Telecommuninations, Paris (1977--78), IBM Research Fellow, Balliol College, Oxford (1978--80), Principal Research Associate, SERC Rutherford Appleton Laboratory (1980--84) and Principal Scientific Officer, SERC Rutherford Appleton Laboratory (1985).
+
+I also worked as the SERC Coordinator for Pattern Analysis (1982), and was Rutherford Research Fellow in Oxford University, Dept. Engineering Science (1985).
+
+I joined the Department of Electrical Engineering of Surrey University in 1986 as a Reader in Information Technology, and became Professor of Machine Intelligence in 1991 and gained the title Distinguished Professor in 2004.
+
+
 ### 方伟
 <img src="./Photos/weifang.png" width="200">
 
