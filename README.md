@@ -194,6 +194,9 @@ Email：wxmaoli@163.com
 Email:fangwei@jiangnan.edu.cn
 
 
+
+## Associate Professors
+
 ### 罗晓清
 <img src="./Photos/xiaoqingluo.png" width="200">
 
@@ -219,7 +222,7 @@ Department of Computer Science, School of IOT Engineering, Jiangnan University
 No. 1800, Lihu Avenue, Wuxi, Jiangsu, China 214122
 Email: xqluo@jiangnan.edu.cn
 
-## Associate Professors
+
 ### 陈志国
 <img src="./Photos/zhiguochen.png" width="200">
 
@@ -295,7 +298,9 @@ E-mail：taozhang@jiangnan.edu.cn
 主要成果：已在AAAI、COLING等国内外权威期刊及会议发表论文20余篇。主持国家自然科学基金青年项目，中国博士后科学基金面上项目等，入选江苏省双创博士，以主要成员身份参与国家自然科学基金联合基金等多项国家级项目。现为中国计算机学会会员、中文信息学会会员。担任多个国际权威期刊和会议的常用审稿人。
 联系方式：luhengyang@jiangnan.edu.cn
 
+
 ## Lecturers
+
 ### 李辉
 <img src="./Photos/huili.png" width="200">
 
@@ -333,6 +338,10 @@ E-mail：taozhang@jiangnan.edu.cn
 研究成果：已在TKDE,TCYB,TSMC,TOMM,TIST及PR等国际期刊或会议上发表论文十余篇。主持国家自然科学基金青年项目及企业（研究所）横向多项，参与国家自然科学基金联合基金等国家级项目多项。现为IEEE、ACM、中国计算机学会、中国图像图形学会会员。担任多个国际期刊和会议审稿人。
 联系方式：zhangdlin@jiangnan.edu.cn
 
+### 王锐
+
+基本信息：王锐，博士，2023年1月入职江南大学，现任人工智能与计算机学院讲师。
+研究方向：人工智能、模式识别。
 
 
 
