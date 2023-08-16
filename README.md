@@ -56,39 +56,6 @@ I also worked as the SERC Coordinator for Pattern Analysis (1982), and was Ruthe
 I joined the Department of Electrical Engineering of Surrey University in 1986 as a Reader in Information Technology, and became Professor of Machine Intelligence in 1991 and gained the title Distinguished Professor in 2004.
 
 
-### 方伟
-<img src="./Photos/weifang.png" width="200">
-
-方伟教授、博导
-
-江苏高校青蓝工程中青年学术带头人
-
-江苏省“六大人才高峰”高层次人才
-
-基本信息：2008年3月取得博士学位。2013年4月-2014年4月前往英国伯明翰大学(University of Birmingham)Xin Yao教授课题组(CERCIA)进行为期一年的学术访问。
-
-研究方向：
-
-智能优化理论、方法与应用
-
-机器学习中的智能优化技术
-
-大数据分析
-
-复杂生产过程建模、优化与调度
-
-①学术型研究生招生专业：模式识别与计算智能
-
-主要方向：智能优化算法研究及应用
-
-②专业型研究生招生专业：计算机应用技术
-
-主要方向：①计算机优化算法②物联网技术应用
-
-研究成果：主要以智能优化算法中的粒子群优化(Particle Swarm Optimization, PSO)算法和所在课题组提出的量子行为粒子群优化(Quantum-behaved PSO, QPSO)算法为研究对象，从这两种算法的理论和实际应用出发，对它们的理论基础及性能改进方法进行深入研究，并将它们应用在工程优化问题中。研究成果在国内外权威刊物发表论文60余篇，其中SCI(E)检索的论文30余篇，主要发表在《IEEE Transactions on Cybernetics》、《Information Sciences》、《Information Fusion》、《Evolutionary Computation》、《IEEE Transactions on Intelligent Transportation Systems》、《物理学报》、《控制与决策》、《系统工程与电子技术》以及智能计算相关的国际会议中。2011年由清华大学出版社出版专著《量子行为粒子群优化：原理及其应用》；作为主要撰写人，参与完成CRC出版社出版的英文学术专著“Particle Swarm Optimization: Classical and Quantum Perspectives”。主持国家重点研发计划子课题，国家自然科学基金面上项目、青年项目，江苏省重点研发计划、面上基金，中国博士后基金等项目，入选江苏省“六大人才高峰”高层次人才、江苏高校青蓝工程中青年学术带头人。现任国际刊物International Journal of Swarm Intelligence Research杂志编委（ESCI检索），International Journal of Computing Science and Mathematics(EI检索期刊)编委。曾获教育部高等学校科学研究优秀成果奖一等奖（大规模非线性智能建模与识别优化技术及其应用）、江苏省科学技术奖（基于计算智能的生物医学信息技术及其应用）、中国商业联合会科学技术奖一等奖（智能机器视觉优化技术研究及产业化应用）。
-
-Email:fangwei@jiangnan.edu.cn
-
 ### 孙俊
 <img src="./Photos/junsun.png" width="200">
 
@@ -192,6 +159,40 @@ E-mail：x.song@jiangnan.edu.cn/song_xiaoning_jnu@163.com
 5、中国水产科学研究院淡水渔业研究中心委托项目，罗非鱼养殖池塘水质监测预警系统的开发与研究（主持）。
 6、中国水产科学研究院淡水渔业研究中心委托项目，罗非鱼良种养殖环境因子预测研究（主持）。
 Email：wxmaoli@163.com
+
+### 方伟
+<img src="./Photos/weifang.png" width="200">
+
+方伟教授、博导
+
+江苏高校青蓝工程中青年学术带头人
+
+江苏省“六大人才高峰”高层次人才
+
+基本信息：2008年3月取得博士学位。2013年4月-2014年4月前往英国伯明翰大学(University of Birmingham)Xin Yao教授课题组(CERCIA)进行为期一年的学术访问。
+
+研究方向：
+
+智能优化理论、方法与应用
+
+机器学习中的智能优化技术
+
+大数据分析
+
+复杂生产过程建模、优化与调度
+
+①学术型研究生招生专业：模式识别与计算智能
+
+主要方向：智能优化算法研究及应用
+
+②专业型研究生招生专业：计算机应用技术
+
+主要方向：①计算机优化算法②物联网技术应用
+
+研究成果：主要以智能优化算法中的粒子群优化(Particle Swarm Optimization, PSO)算法和所在课题组提出的量子行为粒子群优化(Quantum-behaved PSO, QPSO)算法为研究对象，从这两种算法的理论和实际应用出发，对它们的理论基础及性能改进方法进行深入研究，并将它们应用在工程优化问题中。研究成果在国内外权威刊物发表论文60余篇，其中SCI(E)检索的论文30余篇，主要发表在《IEEE Transactions on Cybernetics》、《Information Sciences》、《Information Fusion》、《Evolutionary Computation》、《IEEE Transactions on Intelligent Transportation Systems》、《物理学报》、《控制与决策》、《系统工程与电子技术》以及智能计算相关的国际会议中。2011年由清华大学出版社出版专著《量子行为粒子群优化：原理及其应用》；作为主要撰写人，参与完成CRC出版社出版的英文学术专著“Particle Swarm Optimization: Classical and Quantum Perspectives”。主持国家重点研发计划子课题，国家自然科学基金面上项目、青年项目，江苏省重点研发计划、面上基金，中国博士后基金等项目，入选江苏省“六大人才高峰”高层次人才、江苏高校青蓝工程中青年学术带头人。现任国际刊物International Journal of Swarm Intelligence Research杂志编委（ESCI检索），International Journal of Computing Science and Mathematics(EI检索期刊)编委。曾获教育部高等学校科学研究优秀成果奖一等奖（大规模非线性智能建模与识别优化技术及其应用）、江苏省科学技术奖（基于计算智能的生物医学信息技术及其应用）、中国商业联合会科学技术奖一等奖（智能机器视觉优化技术研究及产业化应用）。
+
+Email:fangwei@jiangnan.edu.cn
+
 
 ### 罗晓清
 <img src="./Photos/xiaoqingluo.png" width="200">
